@@ -1,0 +1,74 @@
+
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+.section__form{
+	
+	padding: 30px;
+	width: 400px !important;
+	height: 5000px !important;
+	
+}
+
+	.input{
+	
+	width: 350px !important ;
+	height: 30px !important;
+	
+}
+
+
+
+#button1 {
+   
+    width: 150px !important;
+    height: 30px !important;
+    margin-top: 25px !important;
+    
+
+	
+
+
+
+}
+}
+
+
+@media screen and (max-width: 600px){
+
+	.section__form{
+	
+	padding: 30px;
+	width: 300px !important;
+	height: 500px !important;
+	
+}
+
+	.input{
+	
+	width: 200px !important ;
+	height: 20px !important;
+	padding: 5px;
+	font: 14px 'Courier New'  !important;
+	
+}
+
+
+
+#button1 {
+   
+    width: 90px !important;
+    height: 20px !important;
+    margin-top: 15px !important;
+    font: 14px 'Courier New' !important;
+}
+
+
+	
+
+	
+}
+

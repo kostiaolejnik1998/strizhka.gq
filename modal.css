@@ -1,0 +1,74 @@
+.headline2{
+	text-align: center;
+}
+
+.section__form2{
+	text-align: justify;
+	padding: 30px;
+	width: 500px;
+	height: 500px;
+	background-color: #595959;
+	border-radius: 30px;
+	box-shadow: 0 0 30px rgba(0,0,0,0.5);
+	margin: 30px auto;
+	color: white;
+}
+
+
+.comentName{
+	background-color: #595959;
+	border-radius: 8px;
+	border: 1px solid white;
+	width: 300px;
+	height: 30px;
+	padding: 5px;
+	color: white;
+	margin: 5px auto;
+	text-align: center;
+	font: 20px 'Courier New';
+	
+}
+
+
+.coment{
+	background-color: #595959;
+	border-radius: 8px;
+	border: 1px solid white;
+	
+	padding: 5px;
+	color: white;
+	margin: 5px auto;
+	text-align: center;
+	font: 20px 'Courier New';
+	height: 3em !important;
+    width: 17em !important;
+	
+	
+}
+.comentForm{
+	text-align: center;
+}
+
+
+#button2 {
+    text-align: center;
+    background-color: white;
+    border-radius: 8px;
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-top: 30px;
+    font: 20px 'Courier New';
+}
+
+.map-inner{
+	text-align: center;
+}
+
+.map-pic{
+	width: 1000px; 
+	height:400px;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-right: 3px;
+}

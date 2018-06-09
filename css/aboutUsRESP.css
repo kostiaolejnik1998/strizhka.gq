@@ -1,0 +1,90 @@
+@media screen and (max-width: 992px) {
+	
+.map-inner{
+	width: 606px;
+	border: 3px solid #F5F5F5;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map-pic{
+	width: 600px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 1px;
+}
+.map{
+	max-width: 675px;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+}
+
+@media screen and (max-width: 768px) {
+	
+	.map-inner{
+	width: 307px;
+	border: 3px solid #F5F5F5;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map-pic{
+	width: 300px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 3px;
+	padding-top: 3px;
+	padding-right: 3px;
+}
+.map{
+ 	max-width: 320px;
+ 	height: 250px;
+ 	 margin-left: auto;
+     margin-right: auto;
+ }
+
+
+}
+
+
+@media screen and (max-width: 600px){
+
+	.section__form2{
+	
+	padding: 30px;
+	width: 300px !important;
+	height: 340px !important;
+	
+}
+
+	.comentName{
+	
+	width: 200px !important ;
+	height: 20px !important;
+	padding: 5px;
+	font: 14px 'Courier New'  !important;
+	
+}
+
+
+.coment{
+	
+	font: 20px 'Courier New'  !important;
+
+	height: 3em !important;
+    width: 10em !important;
+}
+#button2 {
+   
+    width: 90px !important;
+    height: 20px !important;
+    margin-top: 15px !important;
+    font: 14px 'Courier New' !important;
+}
+
+	
+
+	
+}
+
